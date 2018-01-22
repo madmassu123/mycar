@@ -1,2 +1,2 @@
-i have been stuck all day long
- trying to 
+this is my first day java
+ 
